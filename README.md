@@ -1,8 +1,8 @@
 # Connect Four Multiplayer — WebSockets Tutorial 🎮     
 
 ---
-                                                                                                                        ## Introduction
 
+## Introduction                                                                                                                        
 This project is a real-time, browser-based implementation of **Connect Four**, built using **JavaScript (frontend)** and **Python with the `websockets` library (backend)**. It walks through progressive deployment from local testing to global multiplayer access using **GitHub Pages** and **Koyeb*
 
 ---
